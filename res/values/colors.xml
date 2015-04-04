@@ -17,5 +17,6 @@
 <resources>
     <color name="shadow">#cc222222</color>
     <color name="transparent">#00000000</color>
+    <color name="colorBackgroundDark">#21272B</color>
 </resources>
 

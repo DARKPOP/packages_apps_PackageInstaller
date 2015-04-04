@@ -65,7 +65,7 @@
         <activity android:name=".GrantActivity"
                 android:configChanges="orientation|keyboardHidden|screenSize"
                 android:excludeFromRecents="true"
-                android:theme="@android:style/Theme.DeviceDefault.Dialog.NoActionBar">
+                android:theme="@style/Theme.DialogWhenLarge">
             <intent-filter>
                 <action android:name="android.content.pm.action.REQUEST_PERMISSION" />
                 <category android:name="android.intent.category.DEFAULT" />
